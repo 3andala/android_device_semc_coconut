@@ -13,4 +13,5 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/full_coconut.mk
+    $(LOCAL_DIR)/full_coconut.mk \
+        $(LOCAL_DIR)/nameless_coconut.mk
